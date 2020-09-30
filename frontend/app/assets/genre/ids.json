@@ -1,0 +1,21 @@
+{
+  "12": { "name": "Aventura" },
+  "14": { "name": "Fantasia" },
+  "16": { "name": "Animacion" },
+  "18": { "name": "Drama" },
+  "27": { "name": "Miedo" },
+  "28": { "name": "Accion" },
+  "35": { "name": "Comedia" },
+  "36": { "name": "Historia" },
+  "37": { "name": "Vaqueros" },
+  "53": { "name": "Thriller" },
+  "80": { "name": "Crimen" },
+  "99": { "name": "Documental" },
+  "878": { "name": "Ciencia Ficcion" },
+  "9648": { "name": "Misterio" },
+  "10402": { "name": "Musica" },
+  "10749": { "name": "Romantica" },
+  "10751": { "name": "Familia" },
+  "10752": { "name": "Guerra" },
+  "10770": { "name": "Series" }
+}
